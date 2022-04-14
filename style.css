@@ -1,0 +1,32 @@
+ul li {
+    font-size: 22px;
+    border: 1px solid gray;
+    width: 60%;
+    margin: 5px;
+    list-style-type: none;
+}
+input {
+    border: none;
+    outline: none;
+}
+ul {
+    padding: 10px;
+    border: 2px solid red;
+    width: 60%;
+    margin: 3% auto;
+}
+p {
+    text-align: center;
+    font-size: 32px;
+    font-weight: 900;
+}
+
+
+#input-name {
+    border: 2px solid red;
+    margin: 0 40%;
+}
+
+#btn-add {
+    margin: 10px 50%;
+}
